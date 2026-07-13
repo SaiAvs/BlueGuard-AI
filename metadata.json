@@ -1,0 +1,7 @@
+{
+  "name": "BlueGuard AI",
+  "description": "Futuristic, AI-powered ocean intelligence platform empowering fishermen with real-time safety, fish density prediction, pollution reporting, blockchain logging, and Aqualis AI assistant.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

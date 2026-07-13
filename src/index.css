@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .bg-bento-grid {
+    background-image: radial-gradient(circle at 2px 2px, #334155 1px, transparent 0);
+    background-size: 24px 24px;
+  }
+}
